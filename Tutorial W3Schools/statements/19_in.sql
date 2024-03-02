@@ -1,0 +1,1 @@
+-- Le permite especificar múltiples valores en una cláusula where
