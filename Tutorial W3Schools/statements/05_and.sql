@@ -25,5 +25,5 @@ WHERE
     Country = 'Spain'
     AND (
         CustomerName LIKE 'G%'
-        OR CustomerName LIKE 'R%'
+    OR CustomerName LIKE 'R%'
     );
