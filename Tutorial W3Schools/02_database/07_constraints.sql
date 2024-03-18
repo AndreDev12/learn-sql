@@ -1,0 +1,1 @@
+-- Se utilizan para especificar reglas para los datos de una tabla.
